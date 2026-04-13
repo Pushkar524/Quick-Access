@@ -1,0 +1,27 @@
+{
+  "name": "quick-access",
+  "version": "1.0.0",
+  "description": "Simple Next.js file manager for the current directory",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pushkar524/Quick-Access.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pushkar524/Quick-Access/issues"
+  },
+  "homepage": "https://github.com/Pushkar524/Quick-Access#readme",
+  "dependencies": {
+    "next": "^16.2.3",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  }
+}
